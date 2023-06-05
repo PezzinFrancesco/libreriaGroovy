@@ -1,5 +1,5 @@
 // vars/commonCode.groovy
 
-def call(String name="ciao"){
-  echo "Hello, ${name}"
+def call(){
+  return 'Some message'
 }
